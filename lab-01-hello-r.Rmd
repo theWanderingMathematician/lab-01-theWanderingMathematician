@@ -319,7 +319,7 @@ star_data %>%
   summarize(r2 = cor(x, y))
 ```
 
- - The `r2` value of the `star` dataset is the same as the `r` value of the `dino` dataset.
+ - The `r2` value of the `star` dataset is greater than the `r` value of the `dino` dataset by 0.0015.
 
 🧶 ✅ ⬆️ *This is another good place to pause, knit, commit changes with the commit message "Added answer for Ex 3", and push. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
