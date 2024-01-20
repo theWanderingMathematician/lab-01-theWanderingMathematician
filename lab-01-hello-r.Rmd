@@ -249,6 +249,8 @@ In the paper, the authors simulate a variety of datasets that have the same summ
 
 2.  Plot `y` vs. `x` for the `dino` dataset. Then, calculate the correlation coefficient between `x` and `y` for this dataset.
 
+ - The correlation coefficient between `x` and `y` for the `dino` dataset is -0.0645.
+
 Below is the code you will need to complete this exercise.
 Basically, the answer is already given, but you need to include relevant bits in your Rmd document and successfully knit it and view the results.
 
